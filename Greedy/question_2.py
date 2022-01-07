@@ -10,4 +10,3 @@ for i in num_list[1:]:
         else:
             result *= i
 print(result)
-

@@ -28,4 +28,4 @@ def solution(food_times, k):
         return table
 
 
-print(solution([3, 1, 2], 4))
+print(solution([3, 1, 2], 5))
